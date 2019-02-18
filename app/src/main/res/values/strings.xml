@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hochschule Ulm</string>
+    <string name="title_activity_home_activity">News</string>
+    <string name="title_activity_my_studies">My Studies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Diaae Bakri</string>
+    <string name="nav_header_subtitle">bakri@hs-ulm.de</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_library">Libraries of HS Ulm</string>
+    <string name="mensa_dates">Please choose a day</string>
+    <string name="mensas">Mensa at HS Ulm</string>
+    <string name="mensa_menu">Menus of the day</string>
+    <string name="myprofile">Personal Informations</string>
+</resources>
